@@ -35,4 +35,4 @@ It is designed to detect potholes in images or video streams, which can be usefu
 
 4. Run the program:
    ```bash
-   "python3 PotholeDetect.py"
+   python3 PotholeDetect.py
