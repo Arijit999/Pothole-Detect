@@ -27,7 +27,7 @@ It is designed to detect potholes in images or video streams, which can be usefu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Pothole-Detect.git
+   git clone https://github.com/Arijit999/Pothole-Detect.git
    cd Pothole-Detect
 2. Install Dependencies:
    ``` bash
