@@ -13,7 +13,7 @@ while True:
         break
 
     # Run YOLO and predict
-    results = model(frame)
+    results = model(source = frame, conf = 0.6)
 
     # Draw results on frame
     annotated_frame = results[0].plot()
