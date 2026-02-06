@@ -29,6 +29,10 @@ It is designed to detect potholes in images or video streams, which can be usefu
    ```bash
    git clone https://github.com/your-username/pothole-detection.git
    cd pothole-detection
-2. Install Dependencies ---> "pip install -r requirements.txt"
+2. Install Dependencies:
+   ``` bash
+   pip install -r requirements.txt
 
-3. Run the program ---> "python3 PotholeDetect.py"
+4. Run the program:
+   ```bash
+   "python3 PotholeDetect.py"
